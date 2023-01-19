@@ -1,0 +1,10 @@
+Scripts running inside:
+
+func()
+	{
+		abcde
+		new_func()
+		{
+		}
+	}
+	
