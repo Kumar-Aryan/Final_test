@@ -6,5 +6,9 @@ func()
 		new_func()
 		{
 		}
+	def()
+	{
+		fgh
+	}
 	}
 	
