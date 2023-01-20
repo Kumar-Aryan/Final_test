@@ -3,7 +3,7 @@ Scripts running inside:
 func()
 	{
 		abcde
-		new_f()
+		new_f and ffjiyug()
 		{
 		}
                 
