@@ -7,7 +7,7 @@ func()
 		{
 		}
                 
-		def()
+		def() and f()
 		{
 			hgyugyu
 		}
