@@ -6,6 +6,11 @@ func()
 		new_func()
 		{
 		}
+                
+		def()
+		{
+			hgyugyu
+		}
 	}
 	
 print("Merge")
